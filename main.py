@@ -3,7 +3,7 @@ import  matplotlib.pyplot as plt
 import tensorflow as tf
 from tensorflow import  keras
 from  tensorflow.keras import layers
-from  sklearn.metrics import  confusion_matrix
+from  sklearn.metrics import classification_report , confusion_matrix
 import  seaborn as sns
 
 MODEL_PATH = "models/fashion_mnist_baseline.h5"
