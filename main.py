@@ -5,7 +5,6 @@ from tensorflow import  keras
 from  tensorflow.keras import layers
 from  sklearn.metrics import  confusion_matrix
 import  seaborn as sns
-s
 
 MODEL_PATH = "models/fashion_mnist_baseline.h5"
 MODEL_PATH2 = "models/fashion_mnist_best.h5"
