@@ -1,15 +1,11 @@
 import  numpy as np
 import  matplotlib.pyplot as plt
 import tensorflow as tf
-from django.contrib.admin import action
-from django.utils.translation.template import plural_re
 from tensorflow import  keras
 from  tensorflow.keras import layers
-from  sklearn.metrics import classification_report , confusion_matrix
+from  sklearn.metrics import  confusion_matrix
 import  seaborn as sns
-import  os
-
-from tensorflow.python.keras.combinations import keras_model_type_combinations
+s
 
 MODEL_PATH = "models/fashion_mnist_baseline.h5"
 MODEL_PATH2 = "models/fashion_mnist_best.h5"
