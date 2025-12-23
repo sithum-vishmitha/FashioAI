@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="xlrd" />
+          <option value="numpy" />
+          <option value="pandas" />
+          <option value="matplotlib" />
+          <option value="folium" />
+          <option value="geopy" />
+          <option value="pydot" />
+          <option value="scikit-learn" />
+          <option value="tensorflow" />
+          <option value="keras" />
+          <option value="h5py" />
+          <option value="graphviz" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
